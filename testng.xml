@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite de Test Automatisée">
+    <test name="Tests LambdaTest">
+        <classes>
+            <class name="DemoTestNG.FirstAutomatedTest" />
+            <class name="DemoTestNG.SecondAutomatedTest" />
+        </classes>
+    </test>
+</suite>
